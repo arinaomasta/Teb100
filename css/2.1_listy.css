@@ -1,0 +1,10 @@
+ol.roman {
+  list-style-type: lower-roman;
+}
+ul.numbers{
+  list-style-type: decimal;
+}
+ol.circle {
+  list-style-type: circle;
+}
+ul.letters {list-style-type: lower-latin;}
